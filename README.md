@@ -10,5 +10,5 @@ Upon detecting rough motion, releases a sharp sound (whip, lightsaber, or other 
 Useful for duels.
 
 Originally collab with Lisa Lee at HSHacks on an app inventor.
-Later, converted to Swift, with storyboard mapping in XCode. 
+Later, revived and rewritten in Swift, with storyboard mapping in XCode. 
 
