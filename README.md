@@ -9,6 +9,7 @@ to defend the truth with power.
 Upon detecting rough motion, releases a sharp sound (whip, lightsaber, or other depending on mode) and vibrates.
 Useful for duels.
 
-Originally collab with Lisa Lee at HSHacks on an app inventor.
-Later, revived and rewritten in Swift, with storyboard mapping in XCode. 
+Idea originally from collab with Lisa Lee at HSHacks in 2014 on an app inventor.
+
+Now, revived and rewritten together in Swift/XCode! 
 
