@@ -11,7 +11,7 @@ Useful for duels.
 
 Idea originally from collab with Lisa Lee at HSHacks in 2014 on an app inventor.
 
-Now, revived and rewritten together in Swift/XCode! 
+Now, revived and rewritten together entirely in Swift/XCode! 
 
 As always, in progress. Next steps involve more subtle motion detection, versatility mode.
 Slap only on right to left motion. Punch only on forward motion. Etc. 
